@@ -20,6 +20,7 @@ namespace first_App
         private void btnSave_Click(object sender, EventArgs e)
         {
             Console.WriteLine("ABC");
+            Console.WriteLine("ABC");
         }
     }
 }
