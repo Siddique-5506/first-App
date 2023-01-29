@@ -21,6 +21,7 @@ namespace first_App
         {
             Console.WriteLine("ABC");
             Console.WriteLine("ABC");
+            Console.WriteLine("ABC");
         }
     }
 }
