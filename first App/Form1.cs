@@ -16,5 +16,10 @@ namespace first_App
         {
             InitializeComponent();
         }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("ABC");
+        }
     }
 }
